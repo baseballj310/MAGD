@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# MAGD150
+## ReadMe File
 
-You can use the [editor on GitHub](https://github.com/baseballj310/MAGD/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains 5 examples of homework for MAGD 150. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Example 1
 
-### Markdown
+[barrel jump](https://github.com/baseballj310/MAGD/blob/gh-pages/assignment6.pde)
+In this assignment you can click the mouse to jump and the keyboard to make the barrel rolling across the sceen visible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Example 2
+[Leaves](https://github.com/baseballj310/MAGD/blob/gh-pages/assignment7.pde)
+In this assignment the sun follows the mouse along the X axis and the leaves fly violently in the air.
 
-```markdown
-Syntax highlighted code block
+## Example 3
+[movieposter](https://github.com/baseballj310/MAGD/blob/gh-pages/assignment8.pde)
+In this assignment a movie poster is displayed and the title becomes visible when the user presses the mouse.
 
-# Header 1
-## Header 2
-### Header 3
+## Example 4
+[mirror](https://github.com/baseballj310/MAGD/blob/gh-pages/assignment9.pde)
+In this assignment, 2 mirrors are displayed opposing each other and when the mouse is pressed they reflect an image of the user as well as play a chime sound file.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baseballj310/MAGD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Example 5
+[3D shapes](https://github.com/baseballj310/MAGD/blob/gh-pages/assignment10.pde)
+In this assignment, 3 3D shapes are created with a textur over each. the user can move the camera and change the angle perspective using the arrow keys.
